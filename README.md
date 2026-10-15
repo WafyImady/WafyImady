@@ -1,4 +1,4 @@
-# Hi there, I'm Wafy 👋
+# Welcome to my workspace ☕
 
 I'm a full-stack developer who loves tackling unfamiliar projects just to figure out how they work. I build things I've never done before purely for the fun of seeing if I can piece them together. 
 
