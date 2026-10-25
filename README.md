@@ -14,8 +14,12 @@ I enjoy working across the stack, mostly playing with things like **React, Next.
     *   **What it is:** A conversational journaling app using Deepgram for speech-to-text and DistilBERT for emotion classification.
 
 *   **[Fintech POS Dashboard]([link-to-your-repo](https://github.com/WafyImady/fintech-dashboard))** 💳
-    *   **Why I built it:** I wanted to figure out how to build a bulletproof CI/CD deployment pipeline and securely lock down serverless routes.
+    *   **Why I built it:** I wanted to flip the enterprise hiring dynamic and build a fully automated data pipeline to track applications without manual data entry.
     *   **What it is:** A containerized point-of-sale web app using Next.js and Supabase, protected by strict Zod validations, Docker multi-stage builds, and automated Cypress testing via GitHub Actions.
+
+*   **[JobSync]([link-to-your-repo](https://github.com/WafyImady/jobsync))** 🔄
+    *   **Why I built it:** I wanted to figure out how to build a bulletproof CI/CD deployment pipeline and securely lock down serverless routes.
+    *   **What it is:** A reverse ATS that ingests recruiter emails via Python and GitHub Actions, extracts status updates using Google Gemini, and syncs them to a Next.js Kanban dashboard backed by PostgreSQL.
 
 ### 📫 Say hello
 Feel free to poke around my public repos. If you want to chat about tech, piano recommendations, or a good slice-of-life drama, reach out!
